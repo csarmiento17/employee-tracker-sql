@@ -1,0 +1,27 @@
+{
+  "name": "employee-tracker-sql",
+  "version": "1.0.0",
+  "description": "This is an employee tracker using Inquirer to get the user's input and express.js to handler routes and responses and MySQL to store the data to the database.",
+  "main": "index.js",
+  "scripts": {
+    "server":"nodemon server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csarmiento17/employee-tracker-sql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csarmiento17/employee-tracker-sql/issues"
+  },
+  "homepage": "https://github.com/csarmiento17/employee-tracker-sql#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "mysql2": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
