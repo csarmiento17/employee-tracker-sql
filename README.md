@@ -4,4 +4,4 @@ This is an employee tracker using Inquirer to get the user's input and express.j
 
 ## Screenshot
 
-![Employee Tracker using SQL](./emptracker.png)
+![Employee Tracker using SQL](./emptracker.PNG)
