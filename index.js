@@ -3,7 +3,6 @@ const inquirer = require("inquirer");
 const cTable = require("console.table");
 const chalk = require("chalk");
 const sql = require("./db/sqlQueries");
-const { getRoles } = require("./db/sqlQueries");
 
 function viewDepartments() {
   sql

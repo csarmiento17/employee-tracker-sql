@@ -23,7 +23,7 @@ VALUES
   ('Jack', 'London', 1,1),
   ('Robert', 'Bruce', 1,2),
   ('Peter', 'Greenaway', 4,3),
-  ('Derek', 'Jarman',4,3),
+  ('Derek', 'Jarman',4,3);
 
   
 
